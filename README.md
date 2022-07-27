@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/4lenz1/4lenz1/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/4lenz1/4lenz1/output/snake.svg" alt="Snake animation" />
 
 ###
