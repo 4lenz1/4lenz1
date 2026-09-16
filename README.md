@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/4lenz1/4lenz1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contribution block" />
 
 ###
